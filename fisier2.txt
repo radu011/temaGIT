@@ -1,3 +1,5 @@
-Fisier2 - task2
 scriu si eu ceva aici
 si mai scriu si aici
+//new comment - task3
+//new comment - main
+
