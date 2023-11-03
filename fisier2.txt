@@ -1,2 +1,3 @@
 Fisier2 - task2
-//new comment - main
+scriu si eu ceva aici
+si mai scriu si aici
