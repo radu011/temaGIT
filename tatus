@@ -1,0 +1,85 @@
+[33mcommit a7635b643b5364ae74d3fd9459e98c09a94fc23c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: b55568d c5494c9
+Author: Toader Radu <toaderradu21@gmail.com>
+Date:   Fri Nov 3 20:27:22 2023 +0200
+
+    Merge branch 'task2'
+
+[33mcommit b55568d7e0f162df1e2579443fa92ed2d57d1090[m
+Author: Toader Radu <toaderradu21@gmail.com>
+Date:   Fri Nov 3 20:26:13 2023 +0200
+
+    Modifed fisier2.txt - main
+    
+    Signed-off-by: Toader Radu <toaderradu21@gmail.com>
+
+[33mcommit 058a14879447c21be8f0d0d55ff08991f2651c09[m
+Merge: 3f6653c 8e5633b
+Author: Toader Radu <toaderradu21@gmail.com>
+Date:   Fri Nov 3 20:23:27 2023 +0200
+
+    Merge branch 'task1'
+
+[33mcommit c5494c9683478117c4d7cadfd8f1dfeaf4398bc2[m[33m ([m[1;31morigin/task2[m[33m, [m[1;32mtask2[m[33m)[m
+Author: Toader Radu <toaderradu21@gmail.com>
+Date:   Fri Nov 3 20:21:14 2023 +0200
+
+    fisier5.txt - task2
+    
+    Signed-off-by: Toader Radu <toaderradu21@gmail.com>
+
+[33mcommit d8ae9f970fcd4c7716fff41bda6d36585e531d0d[m
+Author: Toader Radu <toaderradu21@gmail.com>
+Date:   Fri Nov 3 20:20:17 2023 +0200
+
+    Modified fisier3.txt/fisier4.txt - task2
+    
+    Signed-off-by: Toader Radu <toaderradu21@gmail.com>
+
+[33mcommit f85a76c3525a4c1205a2d3fb62ed7eba784c631c[m
+Author: Toader Radu <toaderradu21@gmail.com>
+Date:   Fri Nov 3 20:18:09 2023 +0200
+
+    Created fisier4.txt - task2
+    
+    Signed-off-by: Toader Radu <toaderradu21@gmail.com>
+
+[33mcommit 3f6653c1c8bc33f561717e1a16be08fb28c9b5e9[m
+Author: Toader Radu <toaderradu21@gmail.com>
+Date:   Fri Nov 3 20:16:31 2023 +0200
+
+    Created fisier3.txt - main
+    
+    Signed-off-by: Toader Radu <toaderradu21@gmail.com>
+
+[33mcommit 8e5633bc916761eddb4c91d710a2a10533bbb367[m[33m ([m[1;31morigin/task1[m[33m, [m[1;32mtask1[m[33m)[m
+Author: Toader Radu <toaderradu21@gmail.com>
+Date:   Fri Nov 3 20:15:36 2023 +0200
+
+    Created fisier2.txt / update fisier1.txt - task1
+    
+    Signed-off-by: Toader Radu <toaderradu21@gmail.com>
+
+[33mcommit 0486ae9dfc056b9e5be931522391ff0f11dff1cf[m
+Author: Toader Radu <toaderradu21@gmail.com>
+Date:   Fri Nov 3 20:14:10 2023 +0200
+
+    Created fisier1.txt
+    
+    Signed-off-by: Toader Radu <toaderradu21@gmail.com>
+
+[33mcommit 8d3dd0739df1fc86500d86dc31979f83f630752a[m
+Author: Toader Radu <toaderradu21@gmail.com>
+Date:   Fri Nov 3 20:11:49 2023 +0200
+
+    Created .gitignore - main
+    
+    Signed-off-by: Toader Radu <toaderradu21@gmail.com>
+
+[33mcommit c29b9625917b17c78cd3bb519dfdb0107c900dda[m
+Author: Toader Radu <toaderradu21@gmail.com>
+Date:   Fri Nov 3 20:03:14 2023 +0200
+
+    Created README.md - main
+    
+    Signed-off-by: Toader Radu <toaderradu21@gmail.com>
